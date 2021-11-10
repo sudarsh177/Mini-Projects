@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------
 Hello
 
-The face this common problem of trying to rememeber passwords for many different websites which we use 
+We face this common problem of trying to rememeber passwords for many different websites which we use 
 from time to time. This program tries to solve the problem by:
 
 - Generating strong passwords(containing alpha-numeric and special characters).
