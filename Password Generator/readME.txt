@@ -6,4 +6,4 @@ from time to time. This program tries to solve the problem by:
 
 - Generating strong passwords(containing alpha-numeric and special characters).
 - The generated passwords are saved in .json format along with the Username and website details.
-- The saved records can easily accessed.
+- The saved records can be easily accessed.
