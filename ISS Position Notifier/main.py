@@ -3,12 +3,12 @@ from datetime import datetime
 import smtplib
 import os
 
-FROMMAIL = os.environ['FROM_MAIL']
-PASSWORD = os.environ['PSWD']
-TOMAIL = os.environ['TO_MAIL']
+FROMMAIL = os.getenv['FROM_MAIL']
+PASSWORD = os.getenv['PSWD']
+TOMAIL = os.getenv['TO_MAIL']
 
-MY_LAT = os.environ['MYLAT'] # Your latitude
-MY_LONG = os.environ['MYLONG'] # Your longitude
+MY_LAT = os.getenv['MYLAT'] # Your latitude
+MY_LONG = os.getenv['MYLONG'] # Your longitude
 
 
 
