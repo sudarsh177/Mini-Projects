@@ -1,2 +1,2 @@
-This is code for the website containing the list of my favourite ten movies. Flask framework has been extensively used to create this project alongwith WTForms for creating 
+This is code for the website containing the list of my favourite ten movies.Flask framework has been extensively used to create this project alongwith WTForms for creating 
 the entry forms wherever needed, Bootstrap for styling and SQLAlchemy for maintaining the database
